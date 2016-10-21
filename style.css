@@ -7,18 +7,13 @@
 #linha-menu {
   background-color: #862E72;
   width: 100%;
-
-
-
 }
 
 #menu li {
   display: inline;
   border: 0px solid black;
   margin: 150px;
-  font-size: 45;
-
-
+  font-size: 60px;
 }
 
 #menu li a {
