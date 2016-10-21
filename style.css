@@ -1,0 +1,59 @@
+#conteudo {
+  margin: 70px;
+  background-color: #F9B1E9;
+  padding:50px;
+}
+
+#linha-menu {
+  background-color: #862E72;
+  width: 100%;
+
+
+
+}
+
+#menu li {
+  display: inline;
+  border: 0px solid black;
+  margin: 150px;
+  font-size: 45;
+
+
+}
+
+#menu li a {
+  text-decoration: none;
+}
+#menu li a:link {
+  color: black;
+}
+
+#menu li a:visited {
+  color: black;
+}
+
+#menu li a:hover {
+  color: #F9B1E9 ;
+}
+body {
+  background-color: #862E72;
+}
+h1{
+  color:#862E72;
+  font-family: Comic Sans MS;
+  font-size: 30;
+}
+h4{
+  font-family:Times New Roman;
+  font-size: 18;
+}
+ b {
+   color: #862E72;
+ }
+
+ img {
+  margin: auto;
+  display: block;
+  width: 35%;
+
+ }
