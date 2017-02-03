@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <title> Tudo que elas gostam </title>
+      <meta charset="utf-8">
+  </head>
+
+<link rel="stylesheet" type="text/css" href="style.css">
+
+  <body>
+    <div id="linha-menu">
+      <ul id="menu">
+        <li> <a href="pagina3.html"> Home </a> </li>
+        <li> <a href="MeuSITEE.html"> Cabelo </a> </li>
+        <li> <a href="pagina2.html"> Maquiagem </a> </li>
+        <li> <a href="catalogo.html"> Catálogo </a> </li>
+      </ul>
+    </div>
+
+    <div id="conteudo">
+       <h1> Catálogo </h1>
+       <p> Aqui você irá encontrar algumas dicas dos produtos para usar na sua maquiagem e em seu cabelo. Com belos preços e qualidades.</p>
+ pó = {
+   nome: "pó compacto",
+   fabricante: "Quem disse Berecine?",
+   tipo: "Ele serve tanto para ajudar a disfarçar algumas imperfeições, como espinhas e manchas claras",
+   cor: "fps 15 15",
+   preço: 25,99,
+   depoimento: "Minha prima quem recomendou e eu comprei, adoreeeeei! E super recomendo! esconde todas as manchinhas.",
+   foto: "pó compacto.jpeg"
+ }
+
+blush = {
+  nome: "Blush",
+  fabricante: "Quem disse Berenice?",
+  tipo: "Deixar a pele com uma cor corada",
+  cor: "coral",
+  preço: 25,00,
+  depoimento: "Ajuda muito a dar um "UP" naquela cara de sono! e melhora a palidez que a base e o pó deixam em sua pele.",
+  foto: "blush.jpeg"
+}
+
+creme = {
+ nome: "Absolut Control Shampoo Multi-Controle",
+ fabricante: "loreal",
+ tipo: "tratar cabelos volumosos e indisciplinados",
+ preço: 65,90,
+ depoimento: "O Shampoo perfeito para os cabelos volumosos e indisciplinados. Sua fórmula é enriquecida com manteiga de murumuru e ácido glutâmico que confere recarga absoluta de emoliência e controle de disciplina. ",
+ foto: "creme.jpeg"
+}
+
+
+creme = {
+ nome: "AMPOLA DE TRATAMENTO DOVE RECONSTRUÇÃO COMPLETA",
+ fabricante: "dove",
+ tipo: "creme em ampola",
+ preço:19,99
+ depoimento: "A Ampola Dove Reconstrução Completa Tratamento de Resgate recupera os fios em apenas 60 segundos e recupera a maciez dos cabelos. Sua fórmula é 3x mais concentrada em ingrediente ativo e possui agente hidratante que penetra no interior da fibra e fortalece os fios. Indicado para cabelos danificados e severamente danificados, o produto age no nível celular do fio para uma reconstrução completa em apenas 7 dias."
+ foto:"creme em ampola.jpeg"
+}
+  </div>
+  </body>
+</html>
